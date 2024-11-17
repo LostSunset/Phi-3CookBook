@@ -16,6 +16,10 @@
 
 Phi, is a family of open AI models developed by Microsoft. Phi models are the most capable and cost-effective small language models (SLMs) available, outperforming models of the same size and next size up across a variety of language, reasoning, coding, and math benchmarks. The Phi-3 Family includes mini, small, medium and vision versions, trained based on different parameter amounts to serve various application scenarios. For more detailed information about Microsoft's Phi family, please visit the [Welcome to the Phi Family](/md/01.Introduce/Phi3Family.md) page.
 
+Follow these steps:
+1. **Fork the Repository**: Click on the "Fork" button at the top-right corner of this page.
+2. **Clone the Repository**:   `git clone https://github.com/microsoft/Phi-3CookBook.git`
+
 ![Phi3Family](/imgs/00/Phi3getstarted.png)
 
 ## Table of Contents
@@ -28,6 +32,8 @@ Phi, is a family of open AI models developed by Microsoft. Phi models are the mo
   - [Phi-3 Hardware Support](./md/01.Introduce/Hardwaresupport.md)(✅)
   - [Phi-3 Models & Availability across platforms](./md/01.Introduce/Edgeandcloud.md)(✅)
   - [Using Guidance-ai and Phi](./md/01.Introduce/Guidance.md)(✅)
+  - [GitHub Marketplace Models](https://github.com/marketplace/models)
+  - [Azure AI Model Catalog](https://ai.azure.com)
 
 - Quick Start
   - [Using Phi-3 in GitHub Model Catalog](./md/02.QuickStart/GitHubModel_QuickStart.md)(✅)
@@ -36,6 +42,7 @@ Phi, is a family of open AI models developed by Microsoft. Phi models are the mo
   - [Using Phi-3 with Http Requests](./md/02.QuickStart/HttpAPI_QuickStart.md)(✅)
   - [Using Phi-3 in Azure AI Studio](./md/02.QuickStart/AzureAIStudio_QuickStart.md)(✅)
   - [Using Phi-3 Model Inference with Azure MaaS or MaaP](./md/02.QuickStart/AzureModel_Inference.md)(✅)
+  - [Using Phi-3 with Azure Inference API with GitHub and Azure AI](./md/02.QuickStart/AzureInferenceAPI_QuickStart.md)
   - [Deploying Phi-3 models as serverless APIs in Azure AI Studio](./md/02.QuickStart/AzureAIStudio_MaaS.md)(✅)
   - [Using Phi-3 in Ollama](./md/02.QuickStart/Ollama_QuickStart.md)(✅)
   - [Using Phi-3 in LM Studio](./md/02.QuickStart/LMStudio_QuickStart.md)(✅)
